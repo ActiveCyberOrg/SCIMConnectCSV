@@ -8,6 +8,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.okta.scim.sdk</groupId>
+	<version>01.02.03-SNAPSHOT</version>
 	<artifactId>scim-server-util-file</artifactId>
 	<packaging>war</packaging>
 
@@ -209,5 +210,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<version>01.03.02-SNAPSHOT</version>
+	
 </project>
